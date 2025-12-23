@@ -20,19 +20,19 @@ export const CHARACTERS = [
     id: 'blossom',
     name: 'Blossom',
     color: COLORS.BLOSSOM,
-    image: 'assets/blossom.png',
+    image: '/assets/blossom.png',
   },
   {
     id: 'bubbles',
     name: 'Bubbles',
     color: COLORS.BUBBLES,
-    image: 'assets/bubbles.png',
+    image: '/assets/bubbles.png',
   },
   {
     id: 'buttercup',
     name: 'Buttercup',
     color: COLORS.BUTTERCUP,
-    image: 'assets/buttercup.png',
+    image: '/assets/buttercup.png',
   }
 ];
 
